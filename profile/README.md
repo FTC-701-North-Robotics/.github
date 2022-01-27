@@ -5,6 +5,6 @@ operating out of North Kingstown High School.
 
 We boast multiple members of different levels of experience, the most relavent for our github are:
 
-- [Kennan Hunter](https://github.com/KennanHunter): Git Enthusiast
+- [Kennan Hunter](https://github.com/KennanHunter): nerd
 - [Lee](https://github.com/B1ue-Phoenix): Furry
 - Zach: Still figuring out how git works
